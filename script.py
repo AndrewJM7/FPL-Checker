@@ -5,8 +5,8 @@ import hashlib
 import time
 
 # Configure your Pushover credentials
-PUSHOVER_USER_KEY = 'uxyrbpvhswdfsegjzam4vv89xjbqi7'
-PUSHOVER_API_TOKEN = 'afjrnir9xic1xe3rbnang8qxaq94qx'
+PUSHOVER_USER_KEY = ''
+PUSHOVER_API_TOKEN = ''
 
 # Function to send notification via Pushover
 def send_pushover_notification():
